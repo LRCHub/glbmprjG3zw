@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はいよろこんで - Hai Yorokonde",
+  "base_artist": "Kocchi no Kento",
+  "createdAt": "2026-03-27T06:40:34.181303Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はいよろこんで",
+      "artist": "Kocchi no Kento",
+      "has_synced": false,
+      "path": "select/01_はいよろこんで_Kocchi_no_Kento.txt"
+    }
+  ]
+}
